@@ -12,8 +12,7 @@
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="AndroidS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg">
   
-
-  <img align="left" alt="RickAM" height="140" width="140" src="https://media2.giphy.com/media/Qs0QEnugOy0xIsFkpD/giphy.gif?cid=ecf05e473d9u1eqy4kacoqjajcz8wmgdvxoe32u4dcfpl9pi&rid=giphy.gif&ct=g">
+  <img align="right" alt="RickAM" height="160" width="160" src="https://media2.giphy.com/media/Qs0QEnugOy0xIsFkpD/giphy.gif?cid=ecf05e473d9u1eqy4kacoqjajcz8wmgdvxoe32u4dcfpl9pi&rid=giphy.gif&ct=g">
 </div>
   
   ##
