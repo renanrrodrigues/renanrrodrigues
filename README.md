@@ -19,6 +19,6 @@
   <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![snake animation](https://github.com/renanrrodrigues/renanrr-main/tree/main/.github/workflows/github-contribution-grid-snake.svg)
+  ![snake animation](https://raw.githubusercontent.com/renanrrodrigues/renanrr-main/133313b3d30f8f8db806af8a5494ed1fd8fd53f7/.github/workflows/github-user-contribution.svg)
  
 </div>
