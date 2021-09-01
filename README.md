@@ -13,7 +13,7 @@
   <img align="center" alt="AndroidS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg">
   
   
-  <img align="right" alt="Rafa-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
+  <img align="right" alt="Rafa-yoda" src="https://media2.giphy.com/media/Qs0QEnugOy0xIsFkpD/giphy.gif?cid=ecf05e473d9u1eqy4kacoqjajcz8wmgdvxoe32u4dcfpl9pi&rid=giphy.gif&ct=g">
 </div>
   
   ##
