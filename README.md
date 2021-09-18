@@ -13,9 +13,7 @@
 
 </div>
   ##
-  <div <img align="right" alt="Rick" height="160" width="160" src="https://media2.giphy.com/media/Qs0QEnugOy0xIsFkpD/giphy.gif?cid=ecf05e473d9u1eqy4kacoqjajcz8wmgdvxoe32u4dcfpl9pi&rid=giphy.gif&ct=g">
-  </div>
-  ##
+
  
 <div> 
   <a href="https://www.instagram.com/nanrrodrigues" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
