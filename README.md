@@ -22,7 +22,7 @@
   <a href="https://www.linkedin.com/in/renan-rodrigues-75992821b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
    <div>
-  <a href="https://github.com/Cameasy">
+  <a href="https://github.com/renanrrodrigues">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renanrrodrigues&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanrrodrigues&layout=compact&langs_count=7&theme=midnight-purple"/>
   </a>
