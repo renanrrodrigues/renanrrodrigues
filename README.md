@@ -1,6 +1,6 @@
 <img align="right" alt="Rick" height="160" width="160" src="https://media2.giphy.com/media/Qs0QEnugOy0xIsFkpD/giphy.gif?cid=ecf05e473d9u1eqy4kacoqjajcz8wmgdvxoe32u4dcfpl9pi&rid=giphy.gif&ct=g">
 
-## Hey wave, I'm Renan
+## Hey, I'm Renan
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
