@@ -31,7 +31,4 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanrrodrigues&layout=compact&langs_count=7&theme=midnight-purple"/>
   </a>
 </div>
-  
-  ![Snake animation](https://github.com/renanrrodrigues/renanrrodrigues/blob/output/github-contribution-grid-snake.svg)
-
 </div>
