@@ -1,5 +1,5 @@
-<img align="right" alt="Rick" height="160" width="160" src="https://media2.giphy.com/media/Qs0QEnugOy0xIsFkpD/giphy.gif?cid=ecf05e473d9u1eqy4kacoqjajcz8wmgdvxoe32u4dcfpl9pi&rid=giphy.gif&ct=g">
 
+<<<<<<< HEAD
 ## Hello!
 
 <div style="display: inline_block"><br>
@@ -31,3 +31,5 @@
   ![Snake animation](https://github.com/renanrrodrigues/renanrrodrigues/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+=======
+>>>>>>> 16d0220fe020d7ee7aba0b4a1cab542d54603039
