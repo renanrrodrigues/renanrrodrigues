@@ -29,8 +29,8 @@
  
    <div>
   <a href="https://github.com/renanrrodrigues/">
-  <img height="185" width="140" src="https://github-readme-stats.vercel.app/api?username=renanrrodrigues&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/> 
-  <img height="180" width="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanrrodrigues&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=renanrrodrigues&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/> 
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanrrodrigues&layout=compact&langs_count=7&theme=midnight-purple"/>
   </a>
 </div>
   
